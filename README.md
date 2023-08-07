@@ -66,9 +66,6 @@ pilar-web/
 │   ├── App.js
 │   ├── index.js
 │   ├── ...
-│   ├── App.js
-│   ├── index.js
-│   ├── ...
 │
 ├── README.md
 └── ...
